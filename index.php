@@ -34,6 +34,10 @@
 
 </div>
 
+<footer>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum quod ad unde quis minima perferendis ut voluptas sint, quibusdam perspiciatis. Temporibus nisi ex rerum, explicabo placeat expedita alias corporis modi.</p>
+</footer>
+
 
 <footer class="bg-dark text-center text-white">
     &copy; Team Moms
