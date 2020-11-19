@@ -38,12 +38,10 @@
 
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga delectus veritatis aperiam nisi assumenda a, ullam, voluptatibus aliquid at eveniet culpa eaque temporibus quasi itaque in soluta! Officia molestias, maiores vitae enim repellendus commodi asperiores, nisi id fugit amet eos. Adipisci quaerat blanditiis assumenda incidunt ut, esse facere inventore cumque ullam tenetur sed, optio aut fuga, sint eos corrupti veniam nemo alias hic quisquam natus labore. Ullam quae, laboriosam fuga corporis dolore ipsa beatae. Quia eum hic, odio omnis cum, quisquam consequatur numquam cumque amet laudantium fugiat, laboriosam unde quae libero deleniti molestiae! Illum sed esse tenetur quae repellendus nam!</p>
 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae facere obcaecati fugiat nihil at dolore nesciunt quasi blanditiis, optio vero in ipsum adipisci magni rerum consectetur veritatis iste, ipsa ullam totam sit sed distinctio esse! Aut laboriosam beatae iure sed voluptate fuga. Exercitationem, saepe. Ea amet incidunt porro deleniti ipsa?</p>
+
     </div>
 </section>
-
-<footer>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum quod ad unde quis minima perferendis ut voluptas sint, quibusdam perspiciatis. Temporibus nisi ex rerum, explicabo placeat expedita alias corporis modi.</p>
-</footer>
 
 
 <footer class="bg-dark text-center text-white">
