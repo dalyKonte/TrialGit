@@ -8,6 +8,8 @@
     
     <title>Mon projet GIT</title>
 </head>
+<body>
+    <header>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <a class="navbar-brand" href="#">Mon projet GIT</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,12 +29,17 @@
         </div>
     </nav>
 </header>
-<body>
-<div class="container" style="min-height: 600px">
 
-<h1 class="display-4 text-center my-5 shadow-lg">TRIAL GIT</h1>
+<section>
 
-</div>
+    <div class="container" style="min-height: 600px">
+
+        <h1 class="display-4 text-center my-5 shadow-lg">TRIAL GIT</h1>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga delectus veritatis aperiam nisi assumenda a, ullam, voluptatibus aliquid at eveniet culpa eaque temporibus quasi itaque in soluta! Officia molestias, maiores vitae enim repellendus commodi asperiores, nisi id fugit amet eos. Adipisci quaerat blanditiis assumenda incidunt ut, esse facere inventore cumque ullam tenetur sed, optio aut fuga, sint eos corrupti veniam nemo alias hic quisquam natus labore. Ullam quae, laboriosam fuga corporis dolore ipsa beatae. Quia eum hic, odio omnis cum, quisquam consequatur numquam cumque amet laudantium fugiat, laboriosam unde quae libero deleniti molestiae! Illum sed esse tenetur quae repellendus nam!</p>
+
+    </div>
+</section>
 
 
 
